@@ -1,0 +1,12 @@
+{
+  "name": "omdbjs",
+  "version": "1.0.0",
+  "description": "a javascript app that fetches movie and series details from omdb",
+  "main": "js/server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
